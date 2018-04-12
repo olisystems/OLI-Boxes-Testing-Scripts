@@ -3,8 +3,8 @@ import json
 import paho.mqtt.publish as publish
 import time
 
-host="m23.cloudmqtt.com"
-port= 10094
+host="Broker Address"
+port= "port num"
 username="user"
 password="pass"
 power=0
