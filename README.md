@@ -18,3 +18,5 @@ Other necessory things includes the credentials for our MQTT Broker i.e.</p>
 5- Topics Name<br/>
 
 ## Local Scripts
+
+<p align="justify">This section includes the scripts related to the fetching of data from different sensors and publishing it to OLI Systems's MQTT Broker</p>
