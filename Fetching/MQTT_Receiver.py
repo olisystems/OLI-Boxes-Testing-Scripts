@@ -2,8 +2,8 @@ import paho.mqtt.client as mqtt
 import  time
 import openpyxl
 import os.path
-broker="m23.cloudmqtt.com"
-port=10094
+broker=""
+port=
 username=""
 password=""
 
