@@ -19,4 +19,10 @@ Other necessory things includes the credentials for our MQTT Broker i.e.</p>
 
 ## Local Scripts
 
-<p align="justify">This section includes the scripts related to the fetching of data from different sensors and publishing it to OLI Systems's MQTT Broker</p>
+<p align="justify">This section includes the scripts related to the fetching of data from different sensors and publishing it to OLI Systems's MQTT Broker. These scripts can also be downloaded directly into OLI Box using wget.</p>
+These scripts includes fetching of data from different hardwares i.e.</p>
+1- Solar.py(Get data from EPSolar MPPT Controller using Modbus protocol)<br/>
+2- Smartpi.py(Get real-time power and energy data using REST API)<br/>
+3- Rest_auth.py(Get real-time data using discovergy REST Auth API)<br/>
+4- Oli_local.py & Oli.main.py(OLI architecture from real-time hardware to blockchain node)<br/>
+5- SMA.py(Get real-time data from SMA controller using bluetooth)<br/>
