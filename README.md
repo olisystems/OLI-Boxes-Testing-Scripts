@@ -9,10 +9,10 @@ This Repository is divided into two parts.<br />
 For example, to get "MQTT_Receiver.py" script on a OLI Box, User just need to type in console..</p>
 
  <p align="justify"> $wget https://raw.githubusercontent.com/olisystems/OLI-Boxes-Testing-Scripts/master/Fetching/MQTT_Receiver.py<br/>
-To get the code running user need to have some packages installed, if already not installed i.e "PAHO.MQTT"
+To get the code running user need to have some packages installed, if already not installed i.e "PAHO.MQTT"<br/>
 Other necessory things includes the credentials for our MQTT Broker i.e</p>
-1- Broker Address
-2- Broker Port
-3- Username
-4- Password
+1- Broker Address<br/>
+2- Broker Port<br/>
+3- Username<br/>
+4- Password<br/>
 
