@@ -1,5 +1,5 @@
 # OLI-Boxes-Testing-Scripts
-<p align="justify">Some of our testing scripts for our OLI Boxes. They show basic functionality to accomplish some simple tasks which inlcudes fetching and sending data to a MQQT Broker.</p>
+<p align="justify">Some of our testing scripts for our OLI Boxes. They show basic functionality to accomplish some simple tasks which includes fetching and sending data to a MQTT Broker.</p>
 This Repository is divided into two parts.<br />
 1- Fetching Scripts<br />
 2- Local Scripts<br />
