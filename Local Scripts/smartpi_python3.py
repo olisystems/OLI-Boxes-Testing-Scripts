@@ -3,10 +3,10 @@ import json
 import paho.mqtt.publish as publish
 import time
 
-host="m23.cloudmqtt.com"
-port= 10094
-username="kabknwly"
-password="3JmAU0Tm9nUr"
+host=""
+port= 
+username=""
+password=""
 power=0
 
 url= "http://localhost:1080/api/all/power/now"
